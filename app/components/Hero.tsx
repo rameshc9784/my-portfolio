@@ -103,7 +103,7 @@ export default function Hero() {
                 <Linkedin className="h-5 w-5 text-gray-600 group-hover:text-white transition-colors" />
               </a>
               <a
-                href="https://github.com/rameshkumar"
+                href="https://github.com/rameshc9784"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center justify-center w-12 h-12 bg-white bg-gradient-to-r hover:from-purple-700 hover:to-pink-700 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110"
