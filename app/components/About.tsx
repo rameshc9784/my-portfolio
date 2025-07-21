@@ -35,9 +35,9 @@ export default function About() {
     <section id="about" className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
+          <p className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
             About Me
-          </h2>
+          </p>
           <div className="w-20 h-1 bg-gradient-to-r from-purple-600 to-pink-600 mx-auto mb-6"></div>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Get to know the person behind the code - my journey, passion, and
