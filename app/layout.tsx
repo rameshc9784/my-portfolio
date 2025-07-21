@@ -16,9 +16,19 @@ export const metadata: Metadata = {
   robots: "index, follow",
   openGraph: {
     title: "Ramesh Kumar - MERN Stack Developer",
-    description: "Professional MERN Stack Developer with 3 years of experience",
+    description:
+      "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB. View my portfolio, projects, and experience.",
     type: "website",
     locale: "en_US",
+    siteName: "Ramesh Kumar",
+    images: [
+      {
+        url: "https://rameshchoudhary.vercel.app/hero.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Ramesh Choudhary - React Developer",
+      },
+    ],
   },
   generator: "v0.dev",
 };
