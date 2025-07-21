@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Ramesh Kumar - MERN Stack Developer Portfolio",
   description:
-    "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB. View my portfolio, projects, and experience.",
+    "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB.",
   keywords:
     "MERN Stack Developer, React Developer, Node.js, MongoDB, Express.js, Full Stack Developer, JavaScript Developer, Portfolio",
   authors: [{ name: "Ramesh Kumar" }],
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Ramesh Kumar - MERN Stack Developer",
     description:
-      "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB. View my portfolio, projects, and experience.",
+      "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB.",
     type: "website",
     locale: "en_US",
     siteName: "Ramesh Kumar",

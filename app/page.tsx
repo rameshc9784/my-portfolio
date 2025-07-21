@@ -12,14 +12,26 @@ import Header from "./components/Header";
 export const metadata: Metadata = {
   title: "Ramesh Kumar - MERN Stack Developer | React Developer Portfolio",
   description:
-    "MERN Stack Developer with 3 years of experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB. View my portfolio and projects.",
+    "MERN Stack Developer with 3 years of experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB.",
   keywords:
     "MERN Stack Developer, React Developer, Node.js, MongoDB, Express.js, Full Stack Developer, JavaScript Developer",
   authors: [{ name: "Ramesh Kumar" }],
   openGraph: {
     title: "Ramesh Kumar - MERN Stack Developer",
-    description: "Professional MERN Stack Developer with 3 years of experience",
+    description:
+      "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB.",
     type: "website",
+    locale: "en_US",
+    siteName: "Ramesh Kumar",
+    images: [
+      {
+        url: "https://rameshchoudhary.vercel.app/hero.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Ramesh Choudhary - React Developer",
+      },
+    ],
+    url: "https://rameshchoudhary.vercel.app",
   },
 };
 
