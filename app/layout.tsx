@@ -1,9 +1,9 @@
-import type React from "react"
-import type { Metadata } from "next"
-import { Inter } from "next/font/google"
-import "./globals.css"
+import type React from "react";
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] })
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Ramesh Kumar - MERN Stack Developer Portfolio",
@@ -20,17 +20,18 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
   },
-    generator: 'v0.dev'
-}
+  generator: "v0.dev",
+};
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en" className="scroll-smooth">
+      <meta property="og:image" content="hero.jpg" />
       <body className={`${inter.className} antialiased`}>{children}</body>
     </html>
-  )
+  );
 }
