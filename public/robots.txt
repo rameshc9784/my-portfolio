@@ -1,9 +1,6 @@
-# *
+# Allow all bots to access everything
 User-agent: *
 Allow: /
-
-# Host
-Host: https://rameshchoudhary.vercel.app
 
 # Sitemaps
 Sitemap: https://rameshchoudhary.vercel.app/sitemap.xml
