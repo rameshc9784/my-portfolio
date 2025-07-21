@@ -10,19 +10,19 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 
 export const metadata: Metadata = {
-  title: "Ramesh Kumar - MERN Stack Developer",
+  title: "Ramesh Choudhary - MERN Stack Developer",
   description:
     "MERN Stack Developer with 3 years of experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB.",
   keywords:
     "MERN Stack Developer, React Developer, Node.js, MongoDB, Express.js, Full Stack Developer, JavaScript Developer",
-  authors: [{ name: "Ramesh Kumar" }],
+  authors: [{ name: "Ramesh Choudhary" }],
   openGraph: {
-    title: "Ramesh Kumar - MERN Stack Developer",
+    title: "Ramesh Choudhary - MERN Stack Developer",
     description:
       "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB.",
     type: "website",
     locale: "en_US",
-    siteName: "Ramesh Kumar",
+    siteName: "Ramesh Choudhary",
     images: [
       {
         url: "https://rameshchoudhary.vercel.app/hero.jpg",
