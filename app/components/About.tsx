@@ -52,7 +52,7 @@ export default function About() {
             <div className="relative z-10">
               <img
                 src="/hero.jpg?height=600&width=500&text=Professional+Developer+Portrait"
-                alt="Ramesh Kumar - Professional Developer"
+                alt="Ramesh Choudhary - Professional Developer"
                 className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
               />
             </div>
@@ -83,8 +83,8 @@ export default function About() {
                 </span>
               </h3>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                Hello! I'm Ramesh Kumar, a dedicated MERN Stack Developer with
-                over 3 years of hands-on experience in crafting robust,
+                Hello! I'm Ramesh Choudhary, a dedicated MERN Stack Developer
+                with over 3 years of hands-on experience in crafting robust,
                 scalable, and user-friendly web applications. My journey in
                 software development began with a curiosity about how things
                 work on the web, and it has evolved into a passion for creating

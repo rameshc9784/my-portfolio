@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
-            <p className="text-2xl font-bold">Ramesh Kumar</p>
+            <p className="text-2xl font-bold">Ramesh Choudhary</p>
             <p className="text-gray-400">MERN Stack Developer</p>
           </div>
 
@@ -46,7 +46,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © {currentYear} Ramesh Kumar. All rights reserved.
+            © {currentYear} Ramesh Choudhary. All rights reserved.
           </p>
         </div>
       </div>

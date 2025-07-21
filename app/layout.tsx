@@ -6,21 +6,21 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ramesh Kumar - MERN Stack Developer",
+  title: "Ramesh Choudhary - MERN Stack Developer",
   description:
     "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB.",
   keywords:
     "MERN Stack Developer, React Developer, Node.js, MongoDB, Express.js, Full Stack Developer, JavaScript Developer, Portfolio",
-  authors: [{ name: "Ramesh Kumar" }],
+  authors: [{ name: "Ramesh Choudhary" }],
   viewport: "width=device-width, initial-scale=1",
   robots: "index, follow",
   openGraph: {
-    title: "Ramesh Kumar - MERN Stack Developer",
+    title: "Ramesh Choudhary - MERN Stack Developer",
     description:
       "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB.",
     type: "website",
     locale: "en_US",
-    siteName: "Ramesh Kumar",
+    siteName: "Ramesh Choudhary",
     images: [
       {
         url: "https://rameshchoudhary.vercel.app/hero.jpg",
@@ -48,7 +48,7 @@ export default function RootLayout({
 
       <meta
         property="og:title"
-        content="Ramesh Kumar - MERN Stack Developer | React Developer Portfolio"
+        content="Ramesh Choudhary - MERN Stack Developer | React Developer Portfolio"
       />
       <meta
         property="og:description"
