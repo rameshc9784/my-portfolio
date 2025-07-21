@@ -58,6 +58,7 @@ export default function RootLayout({
         property="og:image"
         content="https://rameshchoudhary.vercel.app/hero.jpg"
       />
+      <link rel="canonical" href="https://rameshchoudhary.vercel.app/" />
       <meta property="og:url" content="https://rameshchoudhary.vercel.app" />
       <meta property="og:type" content="website" />
       <link rel="icon" href="https://rameshchoudhary.vercel.app/hero.jpg" />
