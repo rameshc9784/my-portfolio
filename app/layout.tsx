@@ -49,7 +49,7 @@ export default function RootLayout({
       />
       <meta property="og:url" content="https://rameshchoudhary.vercel.app" />
       <meta property="og:type" content="website" />
-      <link rel="icon" href="https://rameshchoudhary.vercel.app/favicon.ico" />
+      <link rel="icon" href="https://rameshchoudhary.vercel.app/hero.jpg" />
       <body className={`${inter.className} antialiased`}>{children}</body>
     </html>
   );
