@@ -30,7 +30,20 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="scroll-smooth">
-      <meta property="og:image" content="hero.jpg" />
+      <meta
+        property="og:title"
+        content="Ramesh Kumar - MERN Stack Developer | React Developer Portfolio"
+      />
+      <meta
+        property="og:description"
+        content="MERN Stack Developer with 3 years of experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB. View my portfolio and projects."
+      />
+      <meta
+        property="og:image"
+        content="https://rameshchoudhary.vercel.app/hero.jpg"
+      />
+      <meta property="og:url" content="https://rameshchoudhary.vercel.app" />
+      <meta property="og:type" content="website" />
       <body className={`${inter.className} antialiased`}>{children}</body>
     </html>
   );
