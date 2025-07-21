@@ -29,6 +29,7 @@ export const metadata: Metadata = {
         alt: "Ramesh Choudhary - React Developer",
       },
     ],
+    url: "https://rameshchoudhary.vercel.app",
   },
   generator: "v0.dev",
 };
