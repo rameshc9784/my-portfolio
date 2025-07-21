@@ -31,6 +31,11 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <meta
+        name="google-site-verification"
+        content="Z0oFsORvY-wexrsN7EBw5Zy-o4GNshtp1svMfg2SDPo"
+      />
+
+      <meta
         property="og:title"
         content="Ramesh Kumar - MERN Stack Developer | React Developer Portfolio"
       />
