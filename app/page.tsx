@@ -10,7 +10,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 
 export const metadata: Metadata = {
-  title: "Ramesh Kumar - MERN Stack Developer | React Developer Portfolio",
+  title: "Ramesh Kumar - MERN Stack Developer",
   description:
     "MERN Stack Developer with 3 years of experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB.",
   keywords:

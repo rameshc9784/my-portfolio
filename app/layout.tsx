@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ramesh Kumar - MERN Stack Developer Portfolio",
+  title: "Ramesh Kumar - MERN Stack Developer",
   description:
     "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB.",
   keywords:
