@@ -39,7 +39,7 @@ export default function About() {
             About Me
           </p>
           <div className="w-20 h-1 bg-gradient-to-r from-purple-600 to-pink-600 mx-auto mb-6"></div>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+          <p className="text-base md:text-lg text-gray-600 max-w-2xl mx-auto">
             Get to know the person behind the code - my journey, passion, and
             what drives me as a developer
           </p>
@@ -48,7 +48,7 @@ export default function About() {
         {/* Main Content: Photo Left, Content Right */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start mb-20">
           {/* Left Side - Photo */}
-          <div className="relative">
+          <div className="relative hidden md:block">
             <div className="relative z-10">
               <img
                 src="/hero.jpg?height=600&width=500&text=Professional+Developer+Portrait"
@@ -62,7 +62,7 @@ export default function About() {
             <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-gradient-to-r from-indigo-400 to-purple-400 rounded-full opacity-20 animate-pulse animation-delay-1000"></div>
 
             {/* Floating achievement badge */}
-            <div className="absolute top-4 -right-4 bg-white rounded-xl p-4 shadow-lg border border-purple-100">
+            <div className="absolute hidden xl:block top-4 -right-4 bg-white rounded-xl p-4 shadow-lg border border-purple-100">
               <div className="flex items-center">
                 <Award className="h-6 w-6 text-purple-600 mr-2" />
                 <div>

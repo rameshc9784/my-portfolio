@@ -13,7 +13,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="min-h-screen flex items-center justify-center relative overflow-hidden"
+      className="min-h-screen flex items-center justify-center relative overflow-hidden pb-8 lg:pb-0"
     >
       {/* Background with gradient */}
       <div className="absolute inset-0 bg-gradient-to-br from-purple-50 via-pink-50 to-indigo-50"></div>
@@ -26,12 +26,12 @@ export default function Hero() {
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <div className="grid grid-cols-1 lg:grid-cols-2  gap-12 items-center">
           {/* Left Content */}
-          <div className="text-center lg:text-left">
+          <div className="text-center lg:text-left order-2 lg:order-1">
             <div className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-purple-100 to-pink-100 rounded-full mb-6">
               <Sparkles className="h-4 w-4 text-purple-600 mr-2" />
-              <span className="text-purple-700 font-medium">
+              <span className="text-xs md:text-base text-purple-700 font-medium">
                 Available for new opportunities
               </span>
             </div>
@@ -115,7 +115,7 @@ export default function Hero() {
           </div>
 
           {/* Right Content - Hero Image */}
-          <div className="relative">
+          <div className="relative order-1 lg:order-2">
             <div className="relative z-10">
               <img
                 src="hero.jpg?height=500&width=500"
