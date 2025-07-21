@@ -32,7 +32,7 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <meta
         name="google-site-verification"
-        content="Z0oFsORvY-wexrsN7EBw5Zy-o4GNshtp1svMfg2SDPo"
+        content="6QUycUgZZP37fuSzYpaVDnfGCoKGnTtJYnHqRfknJk8"
       />
 
       <meta
