@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-=======
-markdown
-Copy
-Edit
-
->>>>>>> af833c1 (update readme file)
 # 💼 Ramesh Choudhary — Developer Portfolio
 
 ![Portfolio Screenshot](./public/screenshot.png)
