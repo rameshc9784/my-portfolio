@@ -1,7 +1,6 @@
-markdown
-Copy
-Edit
 # 💼 Ramesh Choudhary — Developer Portfolio
+
+![Portfolio Screenshot](https://rameshchoudhary.vercel.app/screreshot.png)
 
 Welcome to the source code for my personal developer portfolio, live at 👉 [rameshchoudhary.vercel.app](https://rameshchoudhary.vercel.app)
 
@@ -29,6 +28,6 @@ Visit here: [https://rameshchoudhary.vercel.app](https://rameshchoudhary.vercel.
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, Framer Motion
+- **Frontend**: React.js, Next.js Tailwind CSS Radix-Ui,
 - **Deployment**: Vercel
 - **Design**: Figma (UI concepts)
