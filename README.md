@@ -1,6 +1,6 @@
 # 💼 Ramesh Choudhary — Developer Portfolio
 
-![Portfolio Screenshot](public/screreshot.png)
+![Portfolio Screenshot](/screenshot.png)
 
 Welcome to the source code for my personal developer portfolio, live at 👉 [rameshchoudhary.vercel.app](https://rameshchoudhary.vercel.app)
 
