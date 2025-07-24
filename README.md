@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+markdown
+Copy
+Edit
+
+>>>>>>> af833c1 (update readme file)
 # 💼 Ramesh Choudhary — Developer Portfolio
 
 ![Portfolio Screenshot](./public/screenshot.png)
@@ -31,3 +38,4 @@ Visit here: [https://rameshchoudhary.vercel.app](https://rameshchoudhary.vercel.
 - **Frontend**: React.js, Next.js Tailwind CSS Radix-Ui,
 - **Deployment**: Vercel
 - **Design**: Figma (UI concepts)
+  s
