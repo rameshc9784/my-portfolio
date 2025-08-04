@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description:
     "MERN Stack Developer with 3 years of experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB.",
   keywords:
-    "MERN Stack Developer, React Developer, Node.js, MongoDB, Express.js, Full Stack Developer, JavaScript Developer",
+    "Ramesh Kumar, Ramesh Kumar Software Engineer, Ramesh Kumar Software Developer, Ramesh Choudhary, Ramesh Choudhary Sayla, Ramesh Choudhary Software Enginneer, Ramesh Choudhary Software Developer, MERN Stack Developer, React Developer, Node.js, MongoDB, Express.js, Full Stack Developer, JavaScript Developer",
   authors: [{ name: "Ramesh Choudhary" }],
   openGraph: {
     title: "Ramesh Choudhary - MERN Stack Developer",

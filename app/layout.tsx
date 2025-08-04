@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Professional MERN Stack Developer with 3 years of experience in React.js, Node.js, Express.js, and MongoDB.",
   keywords:
-    "MERN Stack Developer, React Developer, Node.js, MongoDB, Express.js, Full Stack Developer, JavaScript Developer, Portfolio",
+    "Ramesh Kumar, Ramesh Kumar Software Engineer, Ramesh Kumar Software Developer, Ramesh Choudhary, Ramesh Choudhary Sayla, Ramesh Choudhary Software Enginneer, Ramesh Choudhary Software Developer, MERN Stack Developer, React Developer, Node.js, MongoDB, Express.js, Full Stack Developer, JavaScript Developer",
   authors: [{ name: "Ramesh Choudhary" }],
   viewport: "width=device-width, initial-scale=1",
   robots: "index, follow",
